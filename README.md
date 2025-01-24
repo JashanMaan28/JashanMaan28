@@ -35,11 +35,12 @@ if __name__ == '__main__':
 
 <br><br>
 
-- 🏫 I am a `Junior` at [Ripon High School](https://www.riponhigh.net/).
-- 🏆 I love using Softwares as a solution for every `Problem`.
-- 🧑‍💻 I’m currently learning `Deep Learning` and `Software Engineering`.
-- 🤓 Always `learning new things`.
-- 💥 You can visit [MY WEBSITE](not available yet).
+- 🏫 I am a `Junior` at [Ripon High School](https://www.riponhigh.net/).  
+- 🏆 I enjoy building solutions to everyday problems using software.  
+- 🧑‍💻 Currently exploring `Deep Learning` and `Software Engineering`.  
+- 🤓 Passionate about `lifelong learning`.  
+- 💥 [My Website](#) (Under construction).
+
 <br><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -93,6 +94,16 @@ if __name__ == '__main__':
 </p>
 
 <br>
+
+---
+
+## 🏆 Projects
+- **Sign Language Translator**: Real-time ASL detection using MediaPipe and a Random Forest Classifier.  
+- **Portfolio Website**: A sleek and modern portfolio showcasing my skills and projects (coming soon).  
+- **Chatbot for Students**: Built a Python chatbot to help high school students solve common math and science problems.
+
+---
+
 <br>
 
 
