@@ -123,7 +123,7 @@ if __name__ == '__main__':
 <br>
 
 <li>
-<a href="@jshn_maan28" target="_blank">
+<a href="https://t.me/jshn_maan28" target="_blank">
 <img src="https://img.shields.io/badge/Telegram:  jashan_maan28-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram style="margin-bottom: 5px;"/>
 </a>
 </li>
