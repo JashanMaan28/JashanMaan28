@@ -20,7 +20,7 @@ class JashanMaan28():
     self.username = "JashanMaan28";
     self.location = "California, United States";
     self.instagram = "@jshn_maan28";
-    self.portfolio = "Under Development -- Coming soon";
+    self.portfolio = "jashanpreetsingh.web.app";
   
   def __str__(self):
     return self.name
