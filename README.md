@@ -39,7 +39,7 @@ if __name__ == '__main__':
 - 🏆 I enjoy building solutions to everyday problems using software.  
 - 🧑‍💻 Currently exploring `Deep Learning` and `Software Engineering`.  
 - 🤓 Passionate about `lifelong learning`.  
-- 💥 [My Website](https://jashanpreetsingh.web.app/)
+- 💥 [My Portfolio](https://jashanpreetsingh.web.app/)
 
 <br><br><br>
 
