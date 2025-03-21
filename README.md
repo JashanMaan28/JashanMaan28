@@ -167,6 +167,6 @@ if __name__ == '__main__':
 
   ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
   
-  ![Updated](https://img.shields.io/badge/Last%20Updated-January%202024-98b982?style=for-the-badge&labelColor=282828)
+  ![Updated](https://img.shields.io/badge/Last%20Updated-March%202025-98b982?style=for-the-badge&labelColor=282828)
 </div>
 
