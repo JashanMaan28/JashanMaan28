@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
 <br><br>
 
-- 🏫 I am a `Junior` at [Ripon High School](https://www.riponhigh.net/).  
+- 🏫 I am a `Senior` at [Ripon High School](https://www.riponhigh.net/).  
 - 🏆 I enjoy building solutions to everyday problems using software.  
 - 🧑‍💻 Currently exploring `Deep Learning` and `Software Engineering`.  
 - 🤓 Passionate about `lifelong learning`.  
