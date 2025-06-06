@@ -15,6 +15,8 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=🚀+Building+Tomorrow's+AI+Today;💡+17-Year-Old+Tech+Visionary;🎯+Turning+Impossible+Into+I'm+Possible;🌟+Code+%7C+Create+%7C+Innovate+%7C+Inspire" alt="Typing Animation"/>
 </div>
 
+<br>
+
 <!-- Animated Badges with Glow Effects -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JashanMaan28&style=for-the-badge&color=667eea&label=DIGITAL+VISITORS" alt="Profile Views"/>
