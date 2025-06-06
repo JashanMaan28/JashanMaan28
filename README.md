@@ -4,14 +4,15 @@
 
 <!-- Floating Profile Image with Glow Effect -->
 <div align="center">
-  <img src="https://github.com/JashanMaan28.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 0 50px #667eea;"/>
+  <img src="profilePhoto.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 0 50px #667eea;"/>
 </div>
 
 <br>
 
 <!-- Dynamic Typing -->
+<!-- NOTE: Removed 'multiline=true' to create a cleaner, single-line typing animation that deletes and re-types each line. -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🚀+Building+Tomorrow's+AI+Today;💡+17-Year-Old+Tech+Visionary;🎯+Turning+Impossible+Into+I'm+Possible;🌟+Code+%7C+Create+%7C+Innovate+%7C+Inspire" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&repeat=true&width=1000&height=50&lines=🚀+Building+Tomorrow's+AI+Today;💡+17-Year-Old+Tech+Visionary;🎯+Turning+Impossible+Into+I'm+Possible;🌟+Code+%7C+Create+%7C+Innovate+%7C+Inspire" alt="Typing Animation"/>
 </div>
 
 <!-- Animated Badges with Glow Effects -->
@@ -72,7 +73,7 @@
 
 ---
 
-<!-- Pyton Code Style About Section -->
+<!-- Python Code Style About Section -->
 <div align="center">
   
 ## 💻 **SYSTEM.PROFILE.EXECUTE()**
@@ -202,7 +203,7 @@ print(f"🤝 Open for collaboration: {me.is_available_for_collaboration()}")
   
 ### 🛠️ **DEVELOPMENT ECOSYSTEM**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,jupyter,firebase,flutter&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,firebase,flutter&theme=dark" height="60"/>
 <br><br>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
@@ -338,7 +339,7 @@ const portfolio = {
 class AttendanceRecorder:
     def __init__(self):
         self.known_faces = load_known_faces()
-        self.log_file = \"attendance.csv\"
+        self.log_file = "attendance.csv"
 
     def recognize_and_log(self, frame):
         faces = detect_faces(frame)
@@ -389,19 +390,19 @@ class AttendanceRecorder:
 <table>
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/🎯_PROJECTS-5+-667eea?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎯_PROJECTS-15+-667eea?style=for-the-badge&logoColor=white"/>
   <br><em>Built & Deployed</em>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/🧠_ML_MODELS-6+-f093fb?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠_ML_MODELS-8+-f093fb?style=for-the-badge&logoColor=white"/>
   <br><em>Trained & Optimized</em>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/☕_COFFEE-250+-764ba2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/☕_COFFEE-∞-764ba2?style=for-the-badge&logoColor=white"/>
   <br><em>Cups Consumed</em>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/🐛_BUGS-50+-00ff88?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐛_BUGS-500+-00ff88?style=for-the-badge&logoColor=white"/>
   <br><em>Squashed & Fixed</em>
 </td>
 </tr>
@@ -484,7 +485,7 @@ mindmap
   
 ### 🤝 **READY TO CREATE SOMETHING AMAZING?**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Open+for+collaborations+on+AI%2FML+projects;💼+Seeking+internship+opportunities;🎓+Available+for+mentorship+%26+knowledge+sharing;💡+Let's+innovate+and+build+together!" alt="Collaboration Message"/>
+<img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Open+for+collaborations+on+AI%2FML+projects;💼+Seeking+internship+opportunities;🎓+Available+for+mentorship+%26+knowledge+sharing;💡+Let's+innovate+and+build+together!" alt="Collaboration Message"/>
 
 </div>
 
@@ -613,7 +614,7 @@ mindmap
 
 <!-- Final Message -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=✨+Thanks+for+exploring+my+digital+universe!+✨;🚀+Let's+connect+and+create+something+extraordinary!+🚀;💫+The+best+way+to+predict+the+future+is+to+build+it!+💫" alt="Thank You Message"/>
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&size=24&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=900&lines=✨+Thanks+for+exploring+my+digital+universe!+✨;🚀+Let's+connect+and+create+something+extraordinary!+🚀;💫+The+best+way+to+predict+the+future+is+to+build+it!+💫" alt="Thank You Message"/>
 </div>
 
 <div align="center">
@@ -625,5 +626,5 @@ mindmap
 <!-- Made with Love Badge -->
 <div align="right">
   <img src="https://img.shields.io/badge/Crafted_with-💜_and_☕_and_🧠-667eea?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Last_Upgraded-June_2025-f093fb?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Last_Upgraded-June_5_2025-f093fb?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
