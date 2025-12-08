@@ -423,54 +423,6 @@ class AttendanceRecorder:
 
 </div>
 
-```mermaid
-mindmap
-  root((🚀 JASHANPREET))
-    🧠 AI/ML MASTERY
-      Deep Learning
-        Computer Vision
-        Natural Language Processing
-        Reinforcement Learning
-      Machine Learning
-        Supervised Learning
-        Unsupervised Learning
-        Model Optimization
-    💻 DEVELOPMENT
-      Full Stack
-        Frontend Frameworks
-        Backend Systems
-        Database Design
-      Mobile Development
-        Flutter/Dart
-        Cross-platform Apps
-    ☁️ FUTURE TECH
-      Cloud Computing
-        AWS/GCP
-        Distributed Systems
-      DevOps
-        CI/CD Pipelines
-        Container Orchestration
-    🎓 SOFT SKILLS
-      Leadership
-      Communication
-      Problem Solving
-```
-
-<!-- Progress Tracking -->
-<div align="center">
-  
-### 📈 **SKILL PROGRESSION MATRIX**
-
-| 🎯 **Technology Domain** | 📊 **Current Level** | 🚀 **Next Milestone** | 🎯 **Target Mastery** |
-|---------------------------|----------------------|------------------------|----------------------|
-| **🧠 Deep Learning** | ████████░░ 80% | Advanced Architectures | Neural Network Expert |
-| **👁️ Computer Vision** | ██████░░░░ 60% | Real-time Processing | Vision AI Specialist |
-| **🗣️ Natural Language Processing** | █████░░░░░ 50% | Transformer Models | Language AI Master |
-| **☁️ Cloud Computing** | ███░░░░░░░ 30% | AWS Certification | Cloud Architect |
-
-
-</div>
-
 ---
 
 <!-- Interactive Connection Hub -->
@@ -497,8 +449,8 @@ mindmap
 <table>
 <tr>
 <td align="center" width="25%">
-  <a href="https://jashanpreetsingh.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_PORTFOLIO-Visit_My_Universe-667eea?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <a href="https://jashanpreetsingh.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_PORTFOLIO-Visit_My_Website-667eea?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <br><em>Explore My Digital World</em>
 </td>
@@ -566,49 +518,6 @@ mindmap
 
 ---
 
-<!-- Interactive Fun Section -->
-<details align="center">
-<summary>🎮 <strong>🎉 CLICK HERE FOR SOME FUN FACTS & EASTER EGGS! 🎉</strong></summary>
-
-<br>
-
-### 🎯 **THE CODING JOURNEY IN NUMBERS**
-
-```
-🎂 Started coding at: 15 years old
-🚀 First AI project: Sign Language Translator
-☕ Coffee to code ratio: 1:3 (sustainable fuel!)
-🌙 Favorite coding time: Late night (when the world sleeps, I code)
-🎵 Coding playlist: Lo-fi beats + epic soundtracks
-🐛 Biggest debugging session: 6 hours (worth every minute!)
-💡 Eureka moments per month: ~5 (those "aha!" feelings)
-🎯 Current goal: Master Computer Vision by year-end
-🏆 Dream achievement: Create AI that changes lives
-🌟 Personal motto: "Code today, shape tomorrow"
-```
-
-### 🎨 **PERSONALITY MATRIX**
-
-- **🧠 Problem Solver**: Love breaking down complex challenges
-- **🎯 Goal-Oriented**: Always working toward the next milestone  
-- **🤝 Team Player**: Believe in collaborative innovation
-- **📚 Lifelong Learner**: Curiosity is my superpower
-- **🚀 Visionary**: Always thinking about what's possible
-- **💡 Creative Thinker**: Finding unique solutions to old problems
-
-### 🎪 **RANDOM FUN FACTS**
-
-- 🎮 Can code for 8+ hours straight (with proper breaks!)
-- 🧩 Love solving algorithmic puzzles in spare time
-- 🎨 Secretly dream of creating AI-generated art
-- 🌱 Growing a small indoor plant collection (they're great debugging companions)
-- 🎬 Favorite movies: Sci-fi and tech thrillers
-- 📖 Currently reading: "Deep Learning" by Ian Goodfellow
-
-</details>
-
----
-
 <!-- Animated Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=footer&animation=twinkling&fontColor=fff&fontSize=16&desc=Thank%20you%20for%20visiting%20my%20digital%20space!%20Let's%20connect%20and%20build%20amazing%20things%20together!&descAlignY=65"/>
@@ -628,5 +537,5 @@ mindmap
 <!-- Made with Love Badge -->
 <div align="right">
   <img src="https://img.shields.io/badge/Crafted_with-💜_and_☕_and_🧠-667eea?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Last_Upgraded-June_5_2025-f093fb?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Last_Upgraded-December_8_2025-f093fb?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
