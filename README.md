@@ -414,17 +414,6 @@ class AttendanceRecorder:
 
 ---
 
-<!-- Learning Journey with Progress Animation -->
-<div align="center">
-  
-## 🎯 **LEARNING & GROWTH TRAJECTORY**
-
-*"Continuous Evolution in the World of Technology"*
-
-</div>
-
----
-
 <!-- Interactive Connection Hub -->
 <div align="center">
   
