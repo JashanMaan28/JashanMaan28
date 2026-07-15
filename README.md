@@ -15,6 +15,7 @@ Developer and founder from California. I like building things people actually us
 - [**Zorin**](https://github.com/JashanMaan28/Zorin) — AI-powered desktop assistant with voice/text chat, system monitoring, and more
 - [**swark-continued**](https://github.com/JashanMaan28/swark-continued) — VS Code extension that generates architecture diagrams from code using LLMs
 - [**YT-Video-Downloader**](https://github.com/JashanMaan28/YT-Video-Downloader) — YouTube downloader with AI summaries and transcripts
+- [**ImageGen-in-CC**](https://github.com/JashanMaan28/imagegen-in-cc) - Generate and edit images without leaving Claude Code
 
 ## Stack
 
