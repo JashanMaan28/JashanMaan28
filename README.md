@@ -13,6 +13,10 @@ Developer and founder from California. I like building things people actually us
 ## Open Source
 
 - [**Zorin**](https://github.com/JashanMaan28/Zorin) — AI-powered desktop assistant with voice/text chat, system monitoring, and more
+- [**RHS Coding Club**](https://github.com/RHS-Coding-Club/rhs-coding-club) - A hub for Ripon High's Coding Club students to participate in Coding Challenges, track progress, browse resources, and showcase projects.
+- [**Automatic File Sorting System**](https://github.com/JashanMaan28/Automatic-File-Sorting-System) - An efficient tool to automatically organize your files into folders based on type, extension, or custom rules.
+- [**ASL Translator & Fingerspelling Detector**](https://github.com/aryanvasudev/Sign-Language-Translator-Fingerspelling-Detector) - An ASL translator that detects and converts fingerspelling to text, text to fingerspelling, and includes a speech system for audible input/outputs all in real-time.
+- [**Face Attendance Recorder**](https://github.com/JashanMaan28/Real-Time-FaceRecognition-Attendance-Recorder) - AI-powered  tool that uses facial recognition to automate attendance tracking.
 - [**swark-continued**](https://github.com/JashanMaan28/swark-continued) — VS Code extension that generates architecture diagrams from code using LLMs
 - [**YT-Video-Downloader**](https://github.com/JashanMaan28/YT-Video-Downloader) — YouTube downloader with AI summaries and transcripts
 - [**ImageGen-in-CC**](https://github.com/JashanMaan28/imagegen-in-cc) - Generate and edit images without leaving Claude Code
