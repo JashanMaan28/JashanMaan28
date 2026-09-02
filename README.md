@@ -12,6 +12,7 @@ Developer and founder from California. I like building things people actually us
 
 ## Open Source
 
+- [**CampusKit**](https://www.campuskit.app) - A local-first desktop app for students. Courses, deadlines, live grades, GPA, timetable, focus timer and a degree planner all live in one place, and an AI layer to help you with anything.
 - [**Zorin**](https://github.com/JashanMaan28/Zorin) — AI-powered desktop assistant with voice/text chat, system monitoring, and more
 - [**RHS Coding Club**](https://github.com/RHS-Coding-Club/rhs-coding-club) - A hub for Ripon High's Coding Club students to participate in Coding Challenges, track progress, browse resources, and showcase projects.
 - [**Automatic File Sorting System**](https://github.com/JashanMaan28/Automatic-File-Sorting-System) - An efficient tool to automatically organize your files into folders based on type, extension, or custom rules.
