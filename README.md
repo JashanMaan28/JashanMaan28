@@ -13,7 +13,7 @@ Developer and founder from California. I like building things people actually us
 ## Products
 
 - [**CampusKit**](https://www.campuskit.app) — A local-first desktop app for students. Courses, deadlines, live grades, GPA, timetable, focus timer and a degree planner all live in one place, plus an AI layer to help you with anything.
-- [**SkyTools**](https://www.skytools.app) — A toolkit for Hypixel SkyBlock players with live market data, profit calculators, and progression tracking. **Temporarily Unavailable**
+- [**SkyTools**](https://www.skytools.app) — A toolkit for Hypixel SkyBlock players with live market data, profit calculators, and progression tracking.
 
 ## Open Source
 
